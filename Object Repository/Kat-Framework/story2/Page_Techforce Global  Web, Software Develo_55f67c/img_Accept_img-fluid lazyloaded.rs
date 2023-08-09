@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Accept_img-fluid lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>2bbd16d5-d0dc-4069-91be-2150c3a65a68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-fluid.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='logoAndNav']/nav/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9b21a072-96fd-4a11-84d7-16733dbe17a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Techforce Global</value>
+      <webElementGuid>3d1d167a-30ab-41d9-b753-43eeb832f40f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Techforce Global</value>
+      <webElementGuid>5103782d-3d05-44ee-980f-0f5c318a4ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://techforceglobal.com/wp-content/themes/techforceinfo/assets/images/Techforce_logo.svg</value>
+      <webElementGuid>96e27869-eeb8-4fbf-8e64-da0a1c05cfa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid lazyloaded</value>
+      <webElementGuid>346e51aa-cfea-4340-b1bb-271abc8ca239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://techforceglobal.com/wp-content/themes/techforceinfo/assets/images/Techforce_logo.svg</value>
+      <webElementGuid>0f613fbe-63be-4e11-9023-1d5d20012633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;logoAndNav&quot;)/nav[@class=&quot;js-mega-menu navbar navbar-expand-md u-header__navbar u-header__navbar--no-space hs-menu-initialized hs-menu-horizontal&quot;]/a[@class=&quot;navbar-brand u-header__navbar-brand u-header__navbar-brand-center ml-3&quot;]/img[@class=&quot;img-fluid lazyloaded&quot;]</value>
+      <webElementGuid>2463f9d5-40aa-4f1c-9aee-555241ab699f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='logoAndNav']/nav/a/img</value>
+      <webElementGuid>8a1c0c9b-abd6-4a5d-a79b-b862626c7cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Techforce Global']</value>
+      <webElementGuid>d5779780-119a-4b6c-868f-e05386d1435d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>22c720e7-d36b-4c5f-82c8-f4511399b9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@title = 'Techforce Global' and @alt = 'Techforce Global' and @src = 'https://techforceglobal.com/wp-content/themes/techforceinfo/assets/images/Techforce_logo.svg']</value>
+      <webElementGuid>61b5be30-02b6-4e41-be5b-0cd03233deea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
